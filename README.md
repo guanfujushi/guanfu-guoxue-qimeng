@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-guoxue-qimeng)
+
 **English**: Traditional-culture starter pack for parents and preschool teachers — selected idiom stories (origin, plain retelling, moral, usage), Chinese character evolution stories, seasonally grouped classic poems, and 5-minute daily parent-child activities.
 
 ---
